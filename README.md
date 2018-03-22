@@ -9,4 +9,4 @@ An additional script pushes the files to my github.com account.
 
 The Data on github.com/ldpgh will be refreshed every 3600sec. In contrast the local data will be loaded every 20 sec.
 
-In the past it has been used on Linux and WinXP respective Win7. At the moment it is running on my Linux machine.
+It runs on Linux, WinXP and Win7. At the moment my Linux machine is doing the job.
