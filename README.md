@@ -6,8 +6,6 @@ Python Framework to organize my wireless sensor network. The python program
    - [Table](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Table_icon.html)
    - [Charts](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Charts_icon.html).
 
-An additional script pushes the files to my github.com account.
-
-The Data on github.com/ldpgh will be refreshed every 3600sec. In contrast the local data will be loaded every 20 sec.
+An additional script pushes the files to my github.com account every hours. In contrast the local table data will be refreshed every minute. 
 
 It runs on Linux, WinXP and Win7. At the moment my Linux machine is doing the job.
