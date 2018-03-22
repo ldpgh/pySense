@@ -1,8 +1,8 @@
 # pySense
-Python Framework to organize my wireless sensor network.
-- collect Sensor Data
-- implement a simple Web-Server
-- web-page generator for static Html-pages
+Python Framework to organize my wireless sensor network. The python program
+- collects the Sensor Data
+- implements a simple Web-Server
+- comes with a web-page generator for static Html-pages
    - [Table](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Table_icon.html)
    - [Charts](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Charts_icon.html).
 
