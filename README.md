@@ -3,8 +3,8 @@ Python Framework to organize my wireless sensor network. The python program
 - collects the Sensor Data from the Coordinator.
 - implements a simple Web-Server
 - comes with a web-page generator for static Html-pages
-   - [Table](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Table_icon.html)
-   - [Charts](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Charts_icon.html).
+   - [Table (current data)](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Table_icon.html)
+   - [Charts (current data)](http://htmlpreview.github.io/?https://github.com/ldpgh/pySense/blob/master/Funksensoren_Charts_icon.html).
 
 An additional Python script pushes the files to my github.com account every hour. In contrast the local table data will be refreshed every minute. 
 
