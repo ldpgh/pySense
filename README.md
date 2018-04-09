@@ -17,5 +17,5 @@ In contrast the local table data will be refreshed every minute.
 
 <br>
 
-"Current data" setup with TWD, FenstSued and TerasseStufe
+The "current data" setup with TWD, FenstSued and TerasseStufe
 ![wand.jpg](https://github.com/ldpgh/pySense/blob/master/wand.jpg)
