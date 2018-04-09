@@ -11,7 +11,9 @@ It runs on Linux, WinXP and Win7. At the moment my Linux machine is doing the jo
 <br>
 
 
-An additional Python script pushes the files to my github.com account every hour. In contrast the local table data will be refreshed every minute. 
+An additional Python script pushes the files to my github.com account every hour.
+
+In contrast the local table data will be refreshed every minute. 
 
 <br>
 
